@@ -7,5 +7,6 @@ Requirements:
 + pyaudio - `pip install pyaudio`
 + py-webrtcvad - `pip install webrtcvad`
 + baiduaip  -'pip install baiduaip'
+# python version 3.6
+
 '''
-#python version 3.6
