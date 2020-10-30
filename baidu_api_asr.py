@@ -276,8 +276,8 @@ def main():
     # 应用名称       |AppID      |API Key                    |Secret Key                         |包名
     # Python语音识别 |16972159   |fsatvWpiIfwuoSQ4uNnoSxsF   |ksPzxc18ZfUU7Zo89Kt6trkvkU8EIg1f   |百度语音
     APPID = "16972159"
-    API_KEY = "fsatvWpiIfwuoSQ4uNnoSxsF"
-    SECRET_KEY = "TxWTBtsb6lEKhPBkdkir8qr13lHdyfz9"
+    API_KEY = "xxxxxxxxxxx"   # 个人百度语音应用API_KEY
+    SECRET_KEY = "xxxxxxxx"   # 个人百度语音应用SECRET_KEY
     CUID = get_mac_address()        # 获取本机MAC
     DEV_PID = "1536"  # 1536,普通话(支持简单的英文识别),搜索模型,无标点,支持自定义词库
 
